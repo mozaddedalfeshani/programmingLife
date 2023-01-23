@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class circleArea {
+class circleArea {
     public static float area(int r){
         return (float) (3.1416*r*r);
     }

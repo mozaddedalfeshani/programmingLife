@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class greaterOfTwoNum {
+class greaterOfTwoNum {
     public static int bigNum(int a, int b){
         if(a>b){
             return a;

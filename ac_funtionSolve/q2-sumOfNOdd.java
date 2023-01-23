@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class SumOfNOdd {
+class SumOfNOdd {
     //Function that return all odd summation from start to n
     public static int sum(int n){
 
